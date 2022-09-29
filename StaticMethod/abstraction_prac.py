@@ -21,3 +21,4 @@ class Robot:
 
 siri = Robot("siri", 123123132)
 print(siri.is_this_Robot())
+print(Robot.is_this_Robot())
